@@ -1,0 +1,2 @@
+For auto run python script on login :
+Add /usr/bin/python <full path to script> to Session and Startup setting
